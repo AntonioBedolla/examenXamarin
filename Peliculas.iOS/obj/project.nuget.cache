@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "35m4HtdB59n66XHE6MQd+anspZb7SRi6E6SccfWD/R9WpFJxy53DP27xsDww5peEXIdS7Ljgh+ixwnGacm6LLw==",
+  "success": true,
+  "projectFilePath": "/Users/antoniobedolla/examenXamarin/Peliculas.iOS/Peliculas.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/antoniobedolla/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/antoniobedolla/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

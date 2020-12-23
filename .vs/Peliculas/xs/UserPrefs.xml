@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{AF143653-63FD-40D1-AC7B-120A8DFBEED3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Peliculas/Views/MainPage.xaml">
+    <Files>
+      <File FileName="Peliculas.Android/Resources/Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="Peliculas/Views/MainPage.xaml" Line="9" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Peliculas" expanded="True">
+            <Node name="Peliculas" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Peliculas.Android PreferredExecutionTarget="Android.nexus_4" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
