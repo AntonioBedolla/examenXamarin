@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Peliculas.Views"
+             x:Class="Peliculas.MainPage">
+
+        <TabbedPage.Children>
+
+            <ContentPage Title="Top Rate">
+
+            </ContentPage>
+
+            <ContentPage Title="Upcoming">
+                
+            </ContentPage>
+
+            <ContentPage Title="Popular">
+
+            </ContentPage> 
+
+        </TabbedPage.Children>
+
+</TabbedPage>
